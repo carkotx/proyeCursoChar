@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\Desktop\\ProyectoC58430\\ProyectoCurso430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E72382-779C-4DD7-A2AC-52AA93EA532C}|ProyectoCurso430\\ProyectoCurso430.csproj|c:\\users\\miguel\\desktop\\proyectoc58430\\proyectocurso430\\proyectocurso430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E72382-779C-4DD7-A2AC-52AA93EA532C}|ProyectoCurso430\\ProyectoCurso430.csproj|solutionrelative:proyectocurso430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\ProyectoC58430\\ProyectoCurso430\\ProyectoCurso430\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoCurso430\\Program.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\ProyectoC58430\\ProyectoCurso430\\ProyectoCurso430\\Program.cs",
+              "RelativeToolTip": "ProyectoCurso430\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:27:13.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
